@@ -38,16 +38,16 @@ R: This folder contains R files for data processing and model-fitting
 
 `observer_dataprocessing_wales.R`: a script for preprocessing the observer sampling data
 
-`landings_data.processing_wales.R`: a script for preprocessing the iFISH landings data
+`landings_data.processing_wales_lobster.R`: a script for preprocessing the iFISH landings data
 
-`cefas.lt.comp_dataprocessing_wales.R`: a script for preprocessing the Cefas port sampling length composition data
+`cefas.lt.comp_dataprocessing_wales_lobster.R`: a script for preprocessing the Cefas port sampling length composition data
 
 `compute_cpue_wales.R`: a script for computing catch rate from the observer sampling data
 
-`compute_observer.size.comp_wales.R`: a script for computing proportional length frequency distributions from the observer sampling data
+`compute_observer.size.comp_wales_lobster.R`: a script for computing proportional length frequency distributions from the observer sampling data
 
-`compute_observer.size.comp_lfd_wales.R`: a script for computing length frequency distributions weighted by cpue from the observer sampling data for ELEFAN growth parameter estimation
+`compute_observer.size.comp_lfd_wales_lobster.R`: a script for computing length frequency distributions weighted by cpue from the observer sampling data for ELEFAN growth parameter estimation
 
-`standardize_cpue_wales.R`: a script for standardizing observer CPUE using vector autoregressive spatio-temporal (VAST) models 
+`standardize_cpue_wales_lobster.R`: a script for standardizing observer CPUE using vector autoregressive spatio-temporal (VAST) models 
 
 `ss_model_fitting_diagnostics.R`: a script for running Stock Synthesis model-fitting and model diagnostics
